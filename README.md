@@ -55,7 +55,6 @@ const images = [{
 }, {
     props: {
         // Or you can set source directory.
-        url: '',
         source: require('../background.png')
     }
 }]
